@@ -21,7 +21,7 @@ export function Header() {
             <div className="w-10 h-10 bg-[#B19A71] rounded-full flex items-center justify-center">
               <span className="text-black text-xl">♪</span>
             </div>
-            <span className="text-xl">Harmony Music Academy</span>
+            <span className="text-xl">Aadon School of Music</span>
           </div>
 
           {/* Desktop Navigation */}
